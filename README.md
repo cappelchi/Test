@@ -12,4 +12,4 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 160 RAM (32),
 400 HDD
 
-![компоненты](https://github.com/cappelchi/Test/blob/master/components.png)
+![компоненты](https://)
