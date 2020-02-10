@@ -20,3 +20,25 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 ![c1](https://github.com/cappelchi/Test/blob/master/img/components.png)
 
 ![c2](https://github.com/cappelchi/Test/blob/master/img/components2.png)
+
+![c3](https://github.com/cappelchi/Test/blob/master/img/components3.png)
+
+![c4](https://github.com/cappelchi/Test/blob/master/img/components4.png)
+
+![c5](https://github.com/cappelchi/Test/blob/master/img/components5.png)
+
+![c6](https://github.com/cappelchi/Test/blob/master/img/components6.png)
+
+![c7](https://github.com/cappelchi/Test/blob/master/img/components7.png)
+
+![c8](https://github.com/cappelchi/Test/blob/master/img/components8.png)
+
+![c9](https://github.com/cappelchi/Test/blob/master/img/components9.png)
+
+![c10](https://github.com/cappelchi/Test/blob/master/img/components10.png)
+
+![c11](https://github.com/cappelchi/Test/blob/master/img/components11.png)
+
+![c12](https://github.com/cappelchi/Test/blob/master/img/components12.png)
+
+![c13](https://github.com/cappelchi/Test/blob/master/img/components13.png)
