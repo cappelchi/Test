@@ -17,4 +17,6 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 
 ![Analyse](https://github.com/cappelchi/Test/blob/master/img/comp_viz.png)
 
-![компоненты](https://github.com/cappelchi/Test/blob/master/img/component.png)
+![c1](https://github.com/cappelchi/Test/blob/master/img/components.png)
+
+![c2](https://github.com/cappelchi/Test/blob/master/img/components2.png)
