@@ -16,3 +16,5 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 404 х 78076746 х 4 / (1024 ^ 3) = 117.5 ГБ оперативной памяти под размещение и ещё ~ 50% от это под инференс, итого ~ 175 ГБ.
 
 ![компоненты](https://monosnap.com/image/fb97Kn1cMWH6UYhrHjRYkPVnOEF098)
+
+![Analyse](https://monosnap.com/image/q1sciAgP1nKhDfI8qEtTjGgM57n1U9)
