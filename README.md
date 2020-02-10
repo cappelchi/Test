@@ -12,4 +12,7 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 160 RAM,
 400 HDD
 
-![компоненты](https://github.com/cappelchi/Test/blob/master/components.png)
+Имеем 404 образца и 78076746 SNPs, каждый SNPs занимает 4 байта в оперативной памяти, следовательно расчетный инстанс:
+404 х 78076746 х 4 / (1024 ^ 3) = 117.5 ГБ оперативной памяти под размещение и ещё ~ 50% от это под инференс, итого ~ 175 ГБ.
+
+![компоненты](https://monosnap.com/image/fb97Kn1cMWH6UYhrHjRYkPVnOEF098)
