@@ -16,7 +16,7 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 404 х 78076746 х 4 / (1024 ^ 3) = 117.5 ГБ оперативной памяти под размещение и ещё + 50% под инференс, итого ~ 175 ГБ.
 
 ![Analyse](https://github.com/cappelchi/Test/blob/master/img/comp_viz._g.png)
-![Play](https://chart-studio.plot.ly/~cappelchi/10)
+[Play](https://chart-studio.plot.ly/~cappelchi/10)
 
 ![c1](https://github.com/cappelchi/Test/blob/master/img/components.png)
 
