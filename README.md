@@ -15,6 +15,8 @@ ALL.merged.eu.22chr.4pop.5.Q - Q файл
 Имеем 404 образца и 78076746 SNPs, каждый SNPs занимает 4 байта в оперативной памяти, следовательно расчетный инстанс:
 404 х 78076746 х 4 / (1024 ^ 3) = 117.5 ГБ оперативной памяти под размещение и ещё + 50% под инференс, итого ~ 175 ГБ.
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~cappelchi/10.embed"></iframe>
+
 [Analyse](https://github.com/cappelchi/Test/blob/master/img/comp_viz._g.png)
 
 ![c1](https://github.com/cappelchi/Test/blob/master/img/components.png)
