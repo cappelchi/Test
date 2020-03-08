@@ -1,6 +1,53 @@
 # Test
 Решение тестового задания.
 
+![UMAP](https://raw.githubusercontent.com/cappelchi/Test/master/img/umap.gif)
+
+[Интерактивный график](https://plot.ly/~cappelchi/13/)
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap1.png" width="800" height="600" />
+
+Получается 2 четких финских кластера:
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap5.png" width="800" height="600" />
+
+Есть небольшой GBR кластер плюс несколько локальных TSi кластеров.
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap11.png" width="800" height="600" />
+
+
+Остальные кластеры смешанные:
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap19.png" width="800" height="600" />
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap30.png" width="800" height="600" />
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap39.png" width="800" height="600" />
+
+
+
+UPD: Проекция на плоскость 5 -мерную PCA европейских популяций с помощью UMAP.
+
+[Интерактивный график](https://plot.ly/~cappelchi/13/)
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap1.png" width="800" height="600" />
+
+Получается 2 четких финских кластера:
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap5.png" width="800" height="600" />
+
+Есть небольшой GBR кластер плюс несколько локальных TSi кластеров.
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap11.png" width="800" height="600" />
+
+
+Остальные кластеры смешанные:
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap19.png" width="800" height="600" />
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap30.png" width="800" height="600" />
+
+<img src="https://raw.githubusercontent.com/cappelchi/Test/master/img/umap39.png" width="800" height="600" />
+
+
 Atlas_git.ipynb - полное решение с визуализацией действий
 
 Atlas_.py - скрипт решения
